@@ -1,12 +1,12 @@
 ## customer-transaction-risk-analysis
-#🏦 Customer Transaction Behavior & Risk Indicator Analysis
-#📌 Project Overview
+# 🏦 Customer Transaction Behavior & Risk Indicator Analysis
+# 📌 Project Overview
 
 This project presents an end-to-end data analysis of customer transaction behavior using anonymized banking transaction data. The objective is to derive explainable, rule-based risk indicators and behavioral insights that support customer monitoring, risk awareness, and decision-making in banking and fintech environments.
 
 The analysis focuses on data quality, statistical reasoning, and business relevance, aligning with the analytical standards followed by Canadian financial institutions and data-driven startups.
 
-#🎯 Business Problem
+# 🎯 Business Problem
 
 Financial institutions process millions of transactions daily and must identify:
 
@@ -20,7 +20,7 @@ This project answers the question:
 
 How can transaction-level data be transformed into customer-level insights to support risk segmentation and monitoring in a transparent and explainable manner?
 
-#📊 Dataset Description
+# 📊 Dataset Description
 
 Source: Public, anonymized banking transaction dataset (Kaggle)
 
@@ -54,7 +54,7 @@ Jupyter Notebook
 
 GitHub
 
-#🔍 Analysis Approach
+# 🔍 Analysis Approach
 1. Data Loading & Quality Assessment
 
 Verified schema consistency and data types
@@ -89,7 +89,7 @@ Balance-to-spend stress indicator
 
 These indicators were combined into a composite, explainable risk score to support transparent customer segmentation.
 
-#📈 Key Visual Insights
+# 📈 Key Visual Insights
 Customer Risk Score Distribution
 
 Identifies how customers are distributed across composite risk levels, highlighting a small, manageable high-risk segment.
@@ -108,7 +108,7 @@ Focuses on customers with elevated risk scores to support targeted monitoring st
 
 (All visuals are saved in the /visuals directory.)
 
-🔐 Ethics, Privacy & Responsible Analytics
+# 🔐 Ethics, Privacy & Responsible Analytics
 
 All customer identifiers are anonymized
 
@@ -118,7 +118,7 @@ Analysis results are presented at an aggregated level
 
 The project emphasizes explainability and responsible use of data, consistent with banking and fintech standards
 
-#🧠 Business Relevance
+# 🧠 Business Relevance
 
 This project demonstrates how statistical, rule-based analytics can support:
 
@@ -130,7 +130,7 @@ Operational and compliance-aware decision-making
 
 The methodology aligns well with the expectations of Canadian banks, fintech firms, and analytics-driven startups.
 
-#🚀 Future Enhancements
+# 🚀 Future Enhancements
 
 Integration of SQL-based data pipelines
 
@@ -140,7 +140,7 @@ Dashboarding using Power BI or Tableau
 
 Extension to supervised churn or fraud modeling (with labels)
 
-#👤 Author
+# 👤 Author
 
 Akash Gupta
 Aspiring Data Analyst | Data Science & Analytics
